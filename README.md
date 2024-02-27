@@ -47,5 +47,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # weather-app
-はじめてつくるReactアプリ with TypeScriptで作らせてもらいました。
+はじめてつくるReactアプリ with TypeScriptという本で作りました。
 >>>>>>> ad5c9968ff9b5a4932536e9012df912cc2acbda1
