@@ -1,2 +1,2 @@
 # weather-app
-はじめてつくつReactアプリ with TypeScriptで作らせてもらいました。
+はじめてつくるReactアプリ with TypeScriptで作らせてもらいました。
